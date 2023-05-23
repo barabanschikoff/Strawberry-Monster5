@@ -1,0 +1,21 @@
+{
+	"name": "Strawberry Monster",
+	"short_name": "Strawberry Monster",
+	"description": "С каждым нажатием меняется сторона, в которую направлен главный герой. Чем дольше вы будете нажимать на экран, тем дальше сможет продвинуться главный герой!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/иконка-16.png",
+			"sizes": "278x278",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-512.png",
+			"sizes": "576x576",
+			"type": "image/png"
+		}
+	]
+}
